@@ -4,6 +4,7 @@ Make sure these are installed first.
 
 - [Node.js](http://nodejs.org)
 - [Gulp Command Line Utility](http://gulpjs.com) `npm install --global gulp-cli`
+
 *__Note:__ if you've previously installed Gulp globally, run `npm rm --global gulp` to remove it.*
 
 ### Quick Start
@@ -41,7 +42,3 @@ Add your source files to the appropriate `src` subdirectories. Gulp will process
 - Automatically add headers and project details to JS and CSS files.
 - Create polyfilled and non-polyfilled versions of JS files.
 - Watch for file changes, and automatically recompile build and reload webpages.
-
-## Structure files
-
-### Sass structure
